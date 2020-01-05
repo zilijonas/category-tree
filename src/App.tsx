@@ -5,9 +5,9 @@ const App: React.FC = () => {
   return (
     <div style={styles.container}>
       <div style={styles.title}>
-        <h3>Almighty tree</h3>
+        <h1>Almighty tree</h1>
         <br />
-        Just enter a name of a child and click enter.
+        Just enter the name of a child and click enter.
       </div>
       <TreeView />
     </div>
